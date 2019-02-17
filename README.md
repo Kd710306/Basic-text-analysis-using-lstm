@@ -1,6 +1,6 @@
 # Basic-text-analysis-using-lstm
 It shows basic methods and functions of pre-processing textual data that can be then fed to a Lstm(Long short-term memory) neural network for classification.
-List of methods used are:-
+* List of methods used are:-
 * Stopwords removel
 * Stemming
 * Lemmatization
@@ -8,4 +8,4 @@ List of methods used are:-
 * LabelEncoding
 * OnehotEncoding
 * Padding.
-  And finally it is fed to LSTM model
+* And finally it is fed to LSTM model
