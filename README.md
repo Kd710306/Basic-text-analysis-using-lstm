@@ -7,5 +7,5 @@ List of methods used are:-
 * Tokenization
 * LabelEncoding
 * OnehotEncoding
-* Padding\n
+* Padding.
 And finally it is fed to LSTM model
