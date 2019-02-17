@@ -8,4 +8,4 @@ List of methods used are:-
 * LabelEncoding
 * OnehotEncoding
 * Padding.
-And finally it is fed to LSTM model
+ And finally it is fed to LSTM model
